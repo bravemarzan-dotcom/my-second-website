@@ -2,6 +2,8 @@ div{
     background-color: rgb(9, 187, 187);
     margin: 20px;
     color: rgb(24, 24, 81);
+    padding: 20px;
+    text-align: center;
 }
 li{
     background-color: cadetblue;
